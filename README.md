@@ -1,5 +1,7 @@
 ## Hi there
 
+[![Gmail Badge](https://img.shields.io/badge/-contato@Rebecacruz.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@rebecacruz.com)](mailto:contato@rebecacruz.com)
+
 - 🌱  Atualmente estou estudando React, HTML e CSS
 
 
