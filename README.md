@@ -1,6 +1,6 @@
 ## Hi there
 
-[![Gmail Badge](https://img.shields.io/badge/-contato@cruzrebeca@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@cruzrebeca)](mailto:contato@cruzrebeca.com)
+[![Gmail Badge](https://img.shields.io/badge/ cruzrebeca@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@cruzrebeca)](mailto:contato@cruzrebeca.com)
 
 - 🌱  Atualmente estou estudando React, HTML e CSS
 
